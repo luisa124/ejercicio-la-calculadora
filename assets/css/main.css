@@ -81,7 +81,7 @@ input:focus{
 
 /*------- estilos para mi hr ------*/
 hr {
-    background-color: white;
+    background: white;
     height: 2px;
     border-style: none;
 }
